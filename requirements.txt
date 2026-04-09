@@ -16,3 +16,4 @@ tqdm>=4.66,<5.0
 
 # Optional but recommended for stability
 numpy>=1.24,<2.0
+langchain-groq>=0.1.0
