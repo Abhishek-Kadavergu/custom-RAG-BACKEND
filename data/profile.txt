@@ -1,0 +1,143 @@
+ABHISHEK KADAVERGU - PERSONAL KNOWLEDGE PROFILE
+
+BASIC INFORMATION
+
+Name: Abhishek Kadavergu (Preferred name: Abhi) Current Status: 4th
+Year, 2nd Semester Engineering Student Primary Goal: Become a highly
+skilled Software Engineer  Location: India
+
+ACADEMIC BACKGROUND
+
+Bachelor’s Degree: - B.Tech in Electronics and Communication Engineering
+(ECE) - College: Teegala Krishna Reddy Engineering College
+
+Diploma: - Diploma in Electronics and Communication Engineering - Govt.
+Polytechnic Jopipet
+
+Technical Academic Interests: - Data Communication and Computer Networks
+(DCCN) - Operating Systems - Computer Networks - Artificial Intelligence
+and Machine Learning - Data Structures and Algorithms 
+
+TECHNICAL SKILLS
+
+Programming Languages: - Java (Preferred language for DSA) - Python
+(Basics + ML Foundations) - JavaScript
+
+Frontend Development: - React.js - Next.js 14 - Tailwind CSS -
+Bootstrap - Framer Motion
+
+Backend Development: - Node.js - Express.js - FastAPI - Prisma -
+NextAuth
+
+Database Technologies: - MongoDB - SQLite - PostgreSQL
+
+Other Tools & Platforms: - LangChain - LangChain Core - Groq API -
+Google Gemini API - Hugging Face - Cloudinary - FFmpeg - Git & GitHub -
+VS Code - Google Colab
+
+PROJECT EXPERIENCE
+
+1.  Imagify (MERN Stack)
+    -   Converts text into images
+    -   Tech: React, Express, MongoDB, Framer Motion, Tailwind CSS
+2.  Forever Fashion (Full-Stack E-commerce Website)
+    -   Complete MERN stack implementation
+    -   Product listing, cart, authentication, and order flow
+3.  NotesApp
+    -   Full-stack note management application
+4.  Allin1Calculator
+    -   Multi-functional calculator app
+    -   Includes arithmetic, scientific, financial, unit conversion, BMI
+    -   Uses React (Context API/Redux), Node.js, Express
+5.  PDF Q&A Application (Internship Task)
+    -   Upload PDFs and ask questions
+    -   Backend: FastAPI
+    -   NLP: LangChain / LlamaIndex
+    -   Frontend: React
+    -   Database: SQLite/PostgreSQL
+6.  Interactive Product Tour Platform
+    -   Built during internship assignment
+    -   Frontend: React
+    -   Backend: MongoDB
+7.  Next.js Video Trimming Tool
+    -   ReactPlayer frontend
+    -   Express + FFmpeg backend
+    -   Cloudinary integration
+    -   Optimized video processing using separate video server
+8.  Profile Settings Page (Next.js)
+    -   Image upload to Cloudinary
+    -   Data persistence using database
+    -   Authentication via NextAuth
+9.  Forgot Password System
+    -   OTP-based email verification
+    -   Uses Resend for email delivery
+    -   Zod for validation
+10. Speech-to-Text Neural Network Project (ECE domain)
+
+-   Neural network based conversion
+-   Academic + technical application
+
+INTERNSHIP EXPERIENCE
+
+-   Backend Internship (Next.js + Web Applications)
+-   Internship at EY Global Delivery Services & AICTE Edunet Foundation
+-   Experience building modern web applications using MERN stack
+
+ACHIEVEMENTS
+
+-   Won First Prize in college hackathon (First & Second Rounds)
+-   Active content creator in tech domain
+
+CONTENT CREATION
+
+-   YouTube Channel: Coding, DSA, Algorithms, Problem Solving
+-   Instagram Channel: Tech, DSA, Coding education
+-   Interested in screen recordings with voiceovers
+-   Working on improving English (Vocabulary, Grammar, Sentence
+    formation)
+
+LEARNING JOURNEY
+
+Completed: - Supervised Learning - Unsupervised Learning - Linear
+Regression - Logistic Regression - Python basics - NumPy, Pandas,
+Matplotlib, Seaborn
+
+Currently Learning / Interested In: - Advanced Machine Learning -
+Artificial Intelligence Roadmap - System Design - Cloud Technologies -
+Aptitude Preparation - Interview Preparation (OS, CN) - Deep DSA via
+Striver A to Z Sheet
+
+CAREER GOALS
+
+-   Become highly skilled in AI/ML, Full Stack Development, DSA, System
+    Design
+-   Aim for Big Tech Companies
+-   Strong foundation in both Software Engineering and Data Science
+-   Build scalable, production-grade systems
+-   Create impactful technical content online
+
+PERSONAL PREFERENCES
+
+-   Prefers Java for Data Structures & Algorithms
+-   Strong interest in backend engineering
+-   Passionate about building real-world applications
+-   Focused on consistent self-improvement
+
+RECOMMENDED ADDITIONAL RAG METADATA (For Better Retrieval)
+
+Suggested Tags: [“MERN”, “Next.js”, “AI”, “Machine Learning”, “DSA”,
+“Java”, “Python”, “Full Stack”, “Internship”, “Hackathon”, “Video
+Processing”, “LangChain”, “Cloudinary”, “System Design”, “ECE
+Background”, “Content Creator”, “Backend Developer”]
+
+Embedding Categories: - Academic - Projects - Internship - Skills -
+Career Goals - Learning Roadmap
+
+And coming to relationships, abhi has a girlfriend and her name is "Aneesha Reddy"
+they got into a relationship in 2022 February and they're very happy now.
+
+and my friend name is "anand", we're btech/engineering friends we usually enjoy a lot in college and in our room.
+we usually go to movies a lot and order food from bawarchi restaurant and bring cocacola cool drink
+
+
+and our gang name is "The-shit" and our gang members are rajkumar, wajid, hunter wajid, anand, harika oyo, sowmya, kruprani
