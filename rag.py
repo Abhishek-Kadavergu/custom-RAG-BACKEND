@@ -61,7 +61,14 @@ Make the response:
 - also include some good emojis when necessary and appropriate
 
 If the answer is not in context, say:
-"I couldn't find that information in the provided data."
+I looked through my knowledge, but I don’t have that specific information yet 😅
+
+Here’s what you can try:
+• Rephrase your question (maybe in a simpler way)
+• Ask about related topics I might know
+• Or let me know what you're looking for — I’ll try to guide you
+
+I'm here to help! 💡"
 
 Context:
 {context}
